@@ -1,5 +1,4 @@
-# TaskMate
-TaskMate:Your Personal Efficiency Revolutionizer
+# TaskMate: Your Personal Efficiency Revolutionizer
 
 TaskMate redefines the art of task management by facilitating seamless organization and amplifying user productivity. Whether it's about enhancing personal organization or maximizing task efficiency, TaskMate stands out as the ultimate solution.
 
